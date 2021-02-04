@@ -35,15 +35,28 @@ add : 기존에 푼 문제 대한 또 다른 솔루션 코드 추가
 | 01  |     | [Baekjoon-1244 스위치켜고끄기](./src/Implementation/baekjoon-1244)  |  💜4   |      |
 | 02  |     | [SWEA-1873 상호의 배틀필드](./src/Implementation/swea_1873)  |   D3   |      |
 
-## Array
+## Recursive
+|  #  |  ☆  | Problem                                                | Level | Note |
+| :-: | :-: | :----------------------------------------------------- | :--- | :--- |
+| 01  |     | [Baekjoon-17478 재귀함수가 뭔가요?](./src/Recursive/boj_17478)  | 💜5 |      |
+| 02  |     | [SWEA-2805 농작물 수확하기](./src/Recursive/swea_2805)  |   D3   |      |
+
+## Data Structure
+
+### Array
 |  #  |  ☆  | Problem                                                | Level | Note |
 | :-: | :-: | :----------------------------------------------------- | :--- | :--- |
 | 01  |     | [SWEA-1208 Flatten](./src/Implementation/swea-1208)  |   D3   |      |
 | 02  |     | [SWEA-1210 Ladder1](./src/Implementation/swea-1210)  |   D4   |      |
 | 03  |     | [SWEA-1954 달팽이숫자](./src/Implementation/swea-1954)  |   D2   |      |
 
-## Recursive
+### Stack
 |  #  |  ☆  | Problem                                                | Level | Note |
 | :-: | :-: | :----------------------------------------------------- | :--- | :--- |
-| 01  |     | [Baekjoon-17478 재귀함수가 뭔가요?](./src/Recursive/boj_17478)  | 💜5 |      |
-| 02  |     | [SWEA-2805 농작물 수확하기](./src/Recursive/swea_2805)  |   D3   |      |
+| 01  |     | [SWEA-1218 괄호짝짓기](./src/Stack/swea-1218)  |   D4   |      |
+| 02  |     | [Baekjoon-2493 탑](./src/Stack/baekjoon-2493)  |   💛5   |      |
+
+### Queue
+|  #  |  ☆  | Problem                                                | Level | Note |
+| :-: | :-: | :----------------------------------------------------- | :--- | :--- |
+| 01  |     | [SWEA-1225 암호생성기](./src/Queue/swea-1225)  |   D3   |      |
